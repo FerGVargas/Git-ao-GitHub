@@ -13,5 +13,13 @@ O Git Bash é um terminal extendido para otimizaro o uso do Git.
 Vamos ver abaixo como é a lógica do GIT para um melhor etendimento:
 
 #### SHA1 [Segure Hash Algorithm]  
- É um conjunto de função de funções hash criptográfica desenvolvido pela NASA [Agência de Segurança Nacional dos E.U.A.]. 
- É gerado um conjunto de 40 caracteres 
+ É um conjunto de função hash criptográfica desenvolvido pela NASA [Agência de Segurança Nacional dos E.U.A.] onde gera 40 caracteres quando auterado informações. 
+ 
+ #### Objetos Internos do GIT
+ São eles:
+ 
+ BLOBS [Blolha]
+ TREES [Árvores]
+ COMMITS [Comprometer-se]
+
+![Objetos Internos do GIT2](http://full/path/to/img.jpg "Objetos Internos do GIT2")
