@@ -8,5 +8,10 @@ Com esse projeto espero poder contribuir com o aprendizado de mais pessoas, que 
 O Git Bash é um terminal extendido para otimizaro o uso do Git.
 [Link para dowload] (https://git-scm.com/downloads)
 
+### Entendendo como o GIT funciona por baixo dos panos
 
+Vamos ver abaixo como é a lógica do GIT para um melhor etendimento:
 
+#### SHA1 [Segure Hash Algorithm]  
+ É um conjunto de função de funções hash criptográfica desenvolvido pela NASA [Agência de Segurança Nacional dos E.U.A.]. 
+ É gerado um conjunto de 40 caracteres 
