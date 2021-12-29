@@ -22,9 +22,11 @@ Vamos ver abaixo como é a lógica do GIT para um melhor entendimento:
 
  São eles:
 
- BLOBS [Bolhas] - Armazena metadados (palavras, imagens, números, etc). 
- TREES [Árvores] - Armazenam blobs e outras trees. 
- COMMITS [Comprometer-se] - Objeto que junta todas as informações para localização dos dados.
+* BLOBS [Bolhas] - Armazena metadados (palavras, imagens, números, etc). 
+ 
+* TREES [Árvores] - Armazenam blobs e outras trees. 
+ 
+* COMMITS [Comprometer-se] - Objeto que junta todas as informações para localização dos dados.
 
 
 
