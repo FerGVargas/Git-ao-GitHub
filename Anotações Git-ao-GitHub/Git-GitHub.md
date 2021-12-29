@@ -30,7 +30,7 @@ Vamos ver abaixo como é a lógica do GIT para um melhor entendimento:
 
 
 
-Imagem 2
+https://github.com/FerGVargas/Git-ao-GitHub/issues/1#issue-1090140193
 
 
 
